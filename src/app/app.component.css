@@ -1,0 +1,17 @@
+h1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: hsl(0, 100%, 50%);
+    font-size: 40px;
+    text-align: center;
+}
+
+.usuario-logado{
+ margin-top: 5px;
+    margin-bottom: 5px;
+    color: hsl(0, 100%, 50%);
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+
+}
